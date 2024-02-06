@@ -1,3 +1,5 @@
+// This is just a comment to check the successful push to both repos
+
 const UserModel = require("../model/User")
 
 const bcrypt = require("bcrypt")
